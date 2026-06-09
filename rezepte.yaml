@@ -1,0 +1,1400 @@
+Spaghetti Bolognese:
+  portionen: 4 Portionen
+  zeit: 60 Minuten
+  bild_kategorie: pasta
+  bild_url: https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: spaghetti
+    menge: 400 g
+    anzeige: 400 g Spaghetti
+  - name: fleisch
+    menge: 500 g Rinderhack
+    anzeige: 500 g Rinderhack
+  - name: tomate
+    menge: 800 g passierte Tomaten
+    anzeige: 800 g passierte Tomaten
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  - name: karotte
+    menge: 1 Stück
+    anzeige: 1 Stück Karotte
+  - name: sellerie
+    menge: 1 Stange
+    anzeige: 1 Stange Sellerie
+  - name: knoblauch
+    menge: 2 Zehen
+    anzeige: 2 Zehen Knoblauch
+  - name: olivenol
+    menge: 2 EL
+    anzeige: 2 EL Olivenöl
+  - name: kase
+    menge: 50 g Parmesan
+    anzeige: 50 g Parmesan Käse
+  schritte:
+  - Zwiebel, Karotte, Sellerie und Knoblauch fein würfeln.
+  - Olivenöl erhitzen und das Gemüse 5 Minuten anschwitzen.
+  - Hackfleisch dazugeben und krümelig braun anbraten.
+  - Passierte Tomaten einrühren, salzen und 35 Minuten leise köcheln lassen.
+  - Spaghetti in Salzwasser kochen, mit Sauce mischen und mit Parmesan servieren.
+Lasagne al Forno:
+  portionen: 4 Portionen
+  zeit: 90 Minuten
+  bild_kategorie: lasagne
+  bild_url: https://images.unsplash.com/photo-1574894709920-11b28e7367e3?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: nudeln
+    menge: 12 Lasagneplatten
+    anzeige: 12 Lasagneplatten Nudeln
+  - name: fleisch
+    menge: 500 g Rinderhack
+    anzeige: 500 g Rinderhack
+  - name: tomate
+    menge: 700 g Tomatensauce
+    anzeige: 700 g Tomatensauce
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  - name: milch
+    menge: 500 ml
+    anzeige: 500 ml Milch
+  - name: butter
+    menge: 50 g
+    anzeige: 50 g Butter
+  - name: mehl
+    menge: 50 g
+    anzeige: 50 g Mehl
+  - name: kase
+    menge: 150 g gerieben
+    anzeige: 150 g gerieben Käse
+  schritte:
+  - Zwiebel würfeln, mit Hackfleisch anbraten und Tomatensauce zugeben.
+  - Sauce 25 Minuten köcheln lassen.
+  - Butter schmelzen, Mehl einrühren, Milch langsam zugeben und zur Béchamel kochen.
+  - Form abwechselnd mit Fleischsauce, Béchamel und Lasagneplatten schichten.
+  - Mit Käse bestreuen und bei 180 Grad etwa 35 Minuten backen.
+Chicken Curry:
+  portionen: 4 Portionen
+  zeit: 40 Minuten
+  bild_kategorie: curry
+  bild_url: https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: huhn
+    menge: 600 g Hähnchenbrust
+    anzeige: 600 g Hähnchenbrust
+  - name: reis
+    menge: 300 g
+    anzeige: 300 g Reis
+  - name: kokosmilch
+    menge: 400 ml
+    anzeige: 400 ml Kokosmilch
+  - name: curry
+    menge: 2 EL Currypulver
+    anzeige: 2 EL Currypulver
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  - name: knoblauch
+    menge: 2 Zehen
+    anzeige: 2 Zehen Knoblauch
+  - name: paprika
+    menge: 1 Stück
+    anzeige: 1 Stück Paprika
+  - name: olivenol
+    menge: 2 EL
+    anzeige: 2 EL Olivenöl
+  schritte:
+  - Reis nach Packungsangabe garen.
+  - Huhn in Stücke schneiden, salzen und in Öl anbraten.
+  - Zwiebel, Knoblauch und Paprika dazugeben und 5 Minuten braten.
+  - Curry einrühren, Kokosmilch angießen und 15 Minuten köcheln lassen.
+  - Mit Reis servieren.
+Butter Chicken:
+  portionen: 4 Portionen
+  zeit: 50 Minuten
+  bild_kategorie: curry
+  bild_url: https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: huhn
+    menge: 700 g
+    anzeige: 700 g Hähnchenbrust
+  - name: joghurt
+    menge: 150 g
+    anzeige: 150 g Joghurt
+  - name: tomate
+    menge: 500 g passierte Tomaten
+    anzeige: 500 g passierte Tomaten
+  - name: sahne
+    menge: 150 ml
+    anzeige: 150 ml Sahne
+  - name: butter
+    menge: 40 g
+    anzeige: 40 g Butter
+  - name: knoblauch
+    menge: 2 Zehen
+    anzeige: 2 Zehen Knoblauch
+  - name: curry
+    menge: 2 EL Gewürzmischung
+    anzeige: 2 EL Gewürzmischung Currypulver
+  - name: reis
+    menge: 300 g
+    anzeige: 300 g Reis
+  schritte:
+  - Huhn mit Joghurt, Knoblauch und Gewürzen 20 Minuten marinieren.
+  - Butter erhitzen und das Huhn rundherum anbraten.
+  - Tomaten zugeben und 20 Minuten köcheln lassen.
+  - Sahne einrühren und weitere 5 Minuten cremig einkochen.
+  - Mit Reis servieren.
+Margherita Pizza:
+  portionen: 2 Pizzen
+  zeit: 75 Minuten
+  bild_kategorie: pizza
+  bild_url: https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: teig
+    menge: 500 g Pizzateig
+    anzeige: 500 g Pizzateig
+  - name: tomate
+    menge: 250 g Tomatensauce
+    anzeige: 250 g Tomatensauce
+  - name: mozzarella
+    menge: 250 g
+    anzeige: 250 g Mozzarella
+  - name: kase
+    menge: 50 g Parmesan
+    anzeige: 50 g Parmesan Käse
+  - name: olivenol
+    menge: 2 EL
+    anzeige: 2 EL Olivenöl
+  schritte:
+  - Ofen auf 240 Grad vorheizen.
+  - Teig halbieren, dünn ausrollen und auf Backpapier legen.
+  - Tomatensauce verstreichen und Mozzarella darauf verteilen.
+  - Mit Parmesan und Olivenöl ergänzen.
+  - 10 bis 12 Minuten knusprig backen.
+Käsetoast:
+  portionen: 2 Portionen
+  zeit: 15 Minuten
+  bild_kategorie: toast
+  bild_url: https://images.unsplash.com/photo-1528736235302-52922df5c122?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: brot
+    menge: 4 Scheiben
+    anzeige: 4 Scheiben Brot
+  - name: kase
+    menge: 120 g
+    anzeige: 120 g Käse
+  - name: butter
+    menge: 20 g
+    anzeige: 20 g Butter
+  schritte:
+  - Brotscheiben dünn mit Butter bestreichen.
+  - Käse zwischen zwei Brotscheiben legen.
+  - Toast in einer Pfanne bei mittlerer Hitze von beiden Seiten goldbraun rösten.
+  - Kurz ruhen lassen, halbieren und warm servieren.
+Pancakes:
+  portionen: 3 Portionen
+  zeit: 25 Minuten
+  bild_kategorie: pfannkuchen
+  bild_url: https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: mehl
+    menge: 200 g
+    anzeige: 200 g Mehl
+  - name: milch
+    menge: 250 ml
+    anzeige: 250 ml Milch
+  - name: ei
+    menge: 2 Stück
+    anzeige: 2 Stück Eier
+  - name: zucker
+    menge: 30 g
+    anzeige: 30 g Zucker
+  - name: butter
+    menge: 30 g
+    anzeige: 30 g Butter
+  - name: banane
+    menge: 1 Stück optional
+    anzeige: 1 Stück optional Banane
+  schritte:
+  - Mehl, Zucker, Eier und Milch zu einem glatten Teig verrühren.
+  - Butter schmelzen und unterrühren.
+  - Pfanne leicht fetten und kleine Portionen Teig hineingeben.
+  - Pancakes wenden, sobald Bläschen entstehen.
+  - Mit Banane oder Obst servieren.
+Shakshuka:
+  portionen: 2 Portionen
+  zeit: 30 Minuten
+  bild_kategorie: ei
+  bild_url: https://images.unsplash.com/photo-1590412200988-a436970781fa?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: ei
+    menge: 4 Stück
+    anzeige: 4 Stück Eier
+  - name: tomate
+    menge: 500 g gehackt
+    anzeige: 500 g gehackt Tomaten
+  - name: paprika
+    menge: 1 Stück
+    anzeige: 1 Stück Paprika
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  - name: knoblauch
+    menge: 2 Zehen
+    anzeige: 2 Zehen Knoblauch
+  - name: olivenol
+    menge: 2 EL
+    anzeige: 2 EL Olivenöl
+  schritte:
+  - Zwiebel, Knoblauch und Paprika würfeln.
+  - Alles in Olivenöl 6 Minuten anbraten.
+  - Tomaten zugeben und 10 Minuten einkochen.
+  - Mulden formen, Eier hineingeben und zugedeckt stocken lassen.
+  - Direkt aus der Pfanne servieren.
+Sushi Bowl:
+  portionen: 2 Portionen
+  zeit: 35 Minuten
+  bild_kategorie: bowl
+  bild_url: https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: reis
+    menge: 250 g Sushi-Reis
+    anzeige: 250 g Sushi-Reis
+  - name: lachs
+    menge: 250 g
+    anzeige: 250 g Lachs
+  - name: gurke
+    menge: 1/2 Stück
+    anzeige: 1/2 Stück Gurke
+  - name: avocado
+    menge: 1 Stück
+    anzeige: 1 Stück Avocado
+  - name: sojasauce
+    menge: 3 EL
+    anzeige: 3 EL Sojasauce
+  schritte:
+  - Reis waschen und gar kochen.
+  - Lachs in Würfel schneiden oder kurz anbraten.
+  - Gurke und Avocado schneiden.
+  - Reis in Schüsseln geben und Zutaten darauf anrichten.
+  - Mit Sojasauce servieren.
+Caesar Salad:
+  portionen: 2 Portionen
+  zeit: 30 Minuten
+  bild_kategorie: salat
+  bild_url: https://images.unsplash.com/photo-1550304943-4f24f54ddde9?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: salat
+    menge: 1 Kopf Romanasalat
+    anzeige: 1 Kopf Romanasalat
+  - name: huhn
+    menge: 300 g
+    anzeige: 300 g Hähnchenbrust
+  - name: brot
+    menge: 2 Scheiben
+    anzeige: 2 Scheiben Brot
+  - name: kase
+    menge: 50 g Parmesan
+    anzeige: 50 g Parmesan Käse
+  - name: joghurt
+    menge: 100 g
+    anzeige: 100 g Joghurt
+  - name: knoblauch
+    menge: 1 Zehe
+    anzeige: 1 Zehe Knoblauch
+  schritte:
+  - Huhn salzen und in der Pfanne braten.
+  - Brot würfeln und zu Croutons rösten.
+  - Joghurt mit Knoblauch und Parmesan zu Dressing rühren.
+  - Salat schneiden und mit Dressing mischen.
+  - Huhn und Croutons daraufgeben.
+Tacos mit Hähnchen:
+  portionen: 4 Portionen
+  zeit: 35 Minuten
+  bild_kategorie: taco
+  bild_url: https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: wrap
+    menge: 8 kleine Tortillas
+    anzeige: 8 kleine Tortillas
+  - name: huhn
+    menge: 500 g
+    anzeige: 500 g Hähnchenbrust
+  - name: tomate
+    menge: 2 Stück
+    anzeige: 2 Stück Tomaten
+  - name: salat
+    menge: 100 g
+    anzeige: 100 g Romanasalat
+  - name: mais
+    menge: 150 g
+    anzeige: 150 g Mais
+  - name: paprika
+    menge: 1 Stück
+    anzeige: 1 Stück Paprika
+  schritte:
+  - Huhn in Streifen schneiden und würzen.
+  - Paprika schneiden und mit Huhn anbraten.
+  - Tomate und Salat vorbereiten.
+  - Tortillas erwärmen und mit allen Zutaten füllen.
+  - Sofort servieren.
+Kartoffelgratin:
+  portionen: 4 Portionen
+  zeit: 70 Minuten
+  bild_kategorie: auflauf
+  bild_url: https://images.unsplash.com/photo-1590165482129-1b8b27698780?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: kartoffel
+    menge: 1 kg
+    anzeige: 1 kg Kartoffeln
+  - name: sahne
+    menge: 300 ml
+    anzeige: 300 ml Sahne
+  - name: milch
+    menge: 200 ml
+    anzeige: 200 ml Milch
+  - name: kase
+    menge: 150 g
+    anzeige: 150 g Käse
+  - name: knoblauch
+    menge: 1 Zehe
+    anzeige: 1 Zehe Knoblauch
+  - name: butter
+    menge: 20 g
+    anzeige: 20 g Butter
+  schritte:
+  - Kartoffeln schälen und sehr dünn schneiden.
+  - Sahne, Milch, Knoblauch, Salz und Pfeffer mischen.
+  - Form buttern und Kartoffeln einschichten.
+  - Sahnemischung darübergeben und Käse darauf verteilen.
+  - Bei 180 Grad 50 Minuten backen.
+Linsensuppe:
+  portionen: 4 Portionen
+  zeit: 45 Minuten
+  bild_kategorie: suppe
+  bild_url: https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: linsen
+    menge: 250 g
+    anzeige: 250 g Linsen
+  - name: karotte
+    menge: 2 Stück
+    anzeige: 2 Stück Karotte
+  - name: kartoffel
+    menge: 2 Stück
+    anzeige: 2 Stück Kartoffeln
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  - name: wasser
+    menge: 1 l
+    anzeige: 1 l Wasser
+  schritte:
+  - Zwiebel, Karotten und Kartoffeln würfeln.
+  - Zwiebel anbraten, Gemüse und Linsen dazugeben.
+  - Wasser angießen und 30 Minuten köcheln lassen.
+  - Mit Salz, Pfeffer und etwas Essig abschmecken.
+Tomatensuppe:
+  portionen: 4 Portionen
+  zeit: 35 Minuten
+  bild_kategorie: suppe
+  bild_url: https://images.unsplash.com/photo-1604152135912-04a022e23696?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: tomate
+    menge: 800 g
+    anzeige: 800 g Tomaten
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  - name: knoblauch
+    menge: 2 Zehen
+    anzeige: 2 Zehen Knoblauch
+  - name: wasser
+    menge: 500 ml
+    anzeige: 500 ml Wasser
+  - name: sahne
+    menge: 100 ml
+    anzeige: 100 ml Sahne
+  schritte:
+  - Zwiebel und Knoblauch hacken und anbraten.
+  - Tomaten und Wasser zugeben und 20 Minuten kochen.
+  - Suppe pürieren.
+  - Sahne einrühren und abschmecken.
+Lachs mit Kartoffeln:
+  portionen: 2 Portionen
+  zeit: 40 Minuten
+  bild_kategorie: fisch
+  bild_url: https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: lachs
+    menge: 300 g
+    anzeige: 300 g Lachs
+  - name: kartoffel
+    menge: 500 g
+    anzeige: 500 g Kartoffeln
+  - name: brokkoli
+    menge: 300 g
+    anzeige: 300 g Brokkoli
+  - name: zitrone
+    menge: 1/2 Stück
+    anzeige: 1/2 Stück Zitrone
+  - name: butter
+    menge: 20 g
+    anzeige: 20 g Butter
+  schritte:
+  - Kartoffeln schälen und kochen.
+  - Brokkoli in Röschen teilen und dämpfen.
+  - Lachs salzen und in Butter von beiden Seiten braten.
+  - Mit Zitrone beträufeln und mit Kartoffeln und Brokkoli servieren.
+Chili con Carne:
+  portionen: 4 Portionen
+  zeit: 55 Minuten
+  bild_kategorie: chili
+  bild_url: https://images.unsplash.com/photo-1633436375153-d7045cb93e38?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: fleisch
+    menge: 500 g Rinderhack
+    anzeige: 500 g Rinderhack
+  - name: bohnen
+    menge: 400 g
+    anzeige: 400 g Kidneybohnen
+  - name: tomate
+    menge: 600 g
+    anzeige: 600 g Tomaten
+  - name: mais
+    menge: 200 g
+    anzeige: 200 g Mais
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  - name: chili
+    menge: 1 TL
+    anzeige: 1 TL Chili
+  schritte:
+  - Zwiebel würfeln und anbraten.
+  - Hackfleisch dazugeben und braun braten.
+  - Tomaten, Bohnen, Mais und Chili zugeben.
+  - 30 Minuten köcheln lassen und abschmecken.
+Mac and Cheese:
+  portionen: 4 Portionen
+  zeit: 35 Minuten
+  bild_kategorie: pasta
+  bild_url: https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: nudeln
+    menge: 400 g Makkaroni
+    anzeige: 400 g Makkaroni Nudeln
+  - name: kase
+    menge: 250 g Cheddar
+    anzeige: 250 g Cheddar Käse
+  - name: milch
+    menge: 500 ml
+    anzeige: 500 ml Milch
+  - name: butter
+    menge: 40 g
+    anzeige: 40 g Butter
+  - name: mehl
+    menge: 40 g
+    anzeige: 40 g Mehl
+  schritte:
+  - Nudeln bissfest kochen.
+  - Butter schmelzen, Mehl einrühren und Milch langsam zugeben.
+  - Sauce kochen, bis sie cremig ist.
+  - Käse einrühren und Nudeln untermischen.
+  - Optional kurz im Ofen überbacken.
+Olympia Schoko Muffins:
+  portionen: 12 Muffins
+  zeit: 40 Minuten
+  bild_kategorie: muffin
+  bild_url: https://images.unsplash.com/photo-1607958996333-41aef7caefaa?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: mehl
+    menge: 250 g
+    anzeige: 250 g Mehl
+  - name: zucker
+    menge: 180 g
+    anzeige: 180 g Zucker
+  - name: kakao
+    menge: 50 g
+    anzeige: 50 g Kakao
+  - name: ei
+    menge: 2 Stück
+    anzeige: 2 Stück Eier
+  - name: milch
+    menge: 220 ml
+    anzeige: 220 ml Milch
+  - name: butter
+    menge: 100 g
+    anzeige: 100 g Butter
+  - name: schokolade
+    menge: 150 g
+    anzeige: 150 g Schokolade
+  schritte:
+  - Ofen auf 180 Grad vorheizen.
+  - Mehl, Zucker und Kakao mischen.
+  - Eier, Milch und geschmolzene Butter einrühren.
+  - Schokolade hacken und unterheben.
+  - In Förmchen füllen und 20 bis 22 Minuten backen.
+Bananenbrot:
+  portionen: 1 Kastenform
+  zeit: 65 Minuten
+  bild_kategorie: kuchen
+  bild_url: https://images.unsplash.com/photo-1605286978633-2dec93ff88a2?auto=format&fit=crop&w=900&q=80
+  zutaten:
+  - name: banane
+    menge: 3 reife Stück
+    anzeige: 3 reife Stück Banane
+  - name: mehl
+    menge: 250 g
+    anzeige: 250 g Mehl
+  - name: zucker
+    menge: 100 g
+    anzeige: 100 g Zucker
+  - name: ei
+    menge: 2 Stück
+    anzeige: 2 Stück Eier
+  - name: butter
+    menge: 100 g
+    anzeige: 100 g Butter
+  schritte:
+  - Bananen zerdrücken.
+  - Butter, Zucker und Eier verrühren.
+  - Mehl und Bananenmasse unterheben.
+  - In eine Kastenform geben und bei 175 Grad 50 Minuten backen.
+Käseomelett:
+  portionen: 1 Portion
+  zeit: 12 Minuten
+  bild_kategorie: ei
+  zutaten:
+  - name: ei
+    menge: 3 Stück
+    anzeige: 3 Stück Eier
+  - name: kase
+    menge: 60 g
+    anzeige: 60 g Käse
+  - name: milch
+    menge: 2 EL
+    anzeige: 2 EL Milch
+  - name: butter
+    menge: 10 g
+    anzeige: 10 g Butter
+  schritte:
+  - Eier mit Milch verquirlen.
+  - Butter in einer Pfanne schmelzen.
+  - Eimasse hineingeben und bei mittlerer Hitze stocken lassen.
+  - Käse daraufstreuen, Omelett zusammenklappen und warm servieren.
+  bild_url: https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=80
+Rührei mit Käse:
+  portionen: 1 Portion
+  zeit: 10 Minuten
+  bild_kategorie: ei
+  zutaten:
+  - name: ei
+    menge: 3 Stück
+    anzeige: 3 Stück Eier
+  - name: kase
+    menge: 50 g
+    anzeige: 50 g Käse
+  - name: butter
+    menge: 10 g
+    anzeige: 10 g Butter
+  schritte:
+  - Eier in einer Schüssel verquirlen.
+  - Butter in der Pfanne erhitzen.
+  - Eier langsam rühren, bis sie cremig werden.
+  - Käse unterheben und sofort servieren.
+  bild_url: https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&w=900&q=80
+Eier-Käse-Muffins:
+  portionen: 6 Stück
+  zeit: 25 Minuten
+  bild_kategorie: ei
+  zutaten:
+  - name: ei
+    menge: 5 Stück
+    anzeige: 5 Stück Eier
+  - name: kase
+    menge: 80 g
+    anzeige: 80 g Käse
+  - name: paprika
+    menge: 1/2 Stück
+    anzeige: 1/2 Stück Paprika
+  - name: spinat
+    menge: 50 g
+    anzeige: 50 g Spinat
+  schritte:
+  - Ofen auf 180 Grad vorheizen.
+  - Eier verquirlen und mit Käse, Paprika und Spinat mischen.
+  - Masse in Muffinformen füllen.
+  - 15 bis 18 Minuten backen.
+  bild_url: https://images.unsplash.com/photo-1481070555726-e2fe8357725c?auto=format&fit=crop&w=900&q=80
+Frittata mit Käse:
+  portionen: 2 Portionen
+  zeit: 25 Minuten
+  bild_kategorie: ei
+  zutaten:
+  - name: ei
+    menge: 5 Stück
+    anzeige: 5 Stück Eier
+  - name: kase
+    menge: 100 g
+    anzeige: 100 g Käse
+  - name: kartoffel
+    menge: 250 g
+    anzeige: 250 g Kartoffeln
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  schritte:
+  - Kartoffeln in Scheiben schneiden und vorgaren.
+  - Zwiebel anbraten, Kartoffeln zugeben.
+  - Eier verquirlen, Käse einrühren und in die Pfanne geben.
+  - Bei kleiner Hitze stocken lassen.
+  bild_url: https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80
+Quesadilla mit Käse:
+  portionen: 2 Portionen
+  zeit: 15 Minuten
+  bild_kategorie: taco
+  zutaten:
+  - name: wrap
+    menge: 4 Stück
+    anzeige: 4 Stück Tortillas
+  - name: kase
+    menge: 180 g
+    anzeige: 180 g Käse
+  - name: tomate
+    menge: 1 Stück
+    anzeige: 1 Stück Tomaten
+  schritte:
+  - Wrap mit Käse und Tomate belegen.
+  - Zweiten Wrap darauflegen.
+  - In der Pfanne von beiden Seiten knusprig braten.
+  - In Dreiecke schneiden.
+  bild_url: https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=900&q=80
+Grilled Cheese Sandwich:
+  portionen: 2 Portionen
+  zeit: 15 Minuten
+  bild_kategorie: toast
+  zutaten:
+  - name: brot
+    menge: 4 Scheiben
+    anzeige: 4 Scheiben Brot
+  - name: kase
+    menge: 160 g
+    anzeige: 160 g Käse
+  - name: butter
+    menge: 20 g
+    anzeige: 20 g Butter
+  schritte:
+  - Brot außen mit Butter bestreichen.
+  - Käse zwischen die Brotscheiben legen.
+  - Bei mittlerer Hitze von beiden Seiten goldbraun braten.
+  bild_url: https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=900&q=80
+Strammer Max:
+  portionen: 1 Portion
+  zeit: 15 Minuten
+  bild_kategorie: toast
+  zutaten:
+  - name: brot
+    menge: 1 Scheibe
+    anzeige: 1 Scheibe Brot
+  - name: ei
+    menge: 2 Stück
+    anzeige: 2 Stück Eier
+  - name: kase
+    menge: 40 g
+    anzeige: 40 g Käse
+  schritte:
+  - Brot kurz rösten.
+  - Eier als Spiegeleier braten.
+  - Käse auf das Brot legen und Eier daraufsetzen.
+  bild_url: https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=80
+Croque Madame einfach:
+  portionen: 2 Portionen
+  zeit: 25 Minuten
+  bild_kategorie: toast
+  zutaten:
+  - name: brot
+    menge: 4 Scheiben
+    anzeige: 4 Scheiben Brot
+  - name: ei
+    menge: 2 Stück
+    anzeige: 2 Stück Eier
+  - name: kase
+    menge: 120 g
+    anzeige: 120 g Käse
+  - name: milch
+    menge: 150 ml
+    anzeige: 150 ml Milch
+  schritte:
+  - Brot mit Käse belegen.
+  - Milch mit etwas Mehl oder Stärke zu einer schnellen Sauce kochen.
+  - Sandwiches überbacken.
+  - Mit Spiegelei servieren.
+  bild_url: https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=900&q=80
+Käsespätzle einfach:
+  portionen: 3 Portionen
+  zeit: 30 Minuten
+  bild_kategorie: pasta
+  zutaten:
+  - name: nudeln
+    menge: 400 g kurze Nudeln
+    anzeige: 400 g kurze Nudeln Nudeln
+  - name: kase
+    menge: 200 g
+    anzeige: 200 g Käse
+  - name: zwiebel
+    menge: 2 Stück
+    anzeige: 2 Stück Zwiebel
+  - name: butter
+    menge: 20 g
+    anzeige: 20 g Butter
+  schritte:
+  - Nudeln kochen.
+  - Zwiebeln in Butter langsam braun braten.
+  - Nudeln mit Käse mischen, bis alles cremig ist.
+  - Mit Röstzwiebeln servieren.
+  bild_url: https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=900&q=80
+Nudelauflauf mit Käse:
+  portionen: 4 Portionen
+  zeit: 45 Minuten
+  bild_kategorie: auflauf
+  zutaten:
+  - name: nudeln
+    menge: 400 g
+    anzeige: 400 g Nudeln
+  - name: kase
+    menge: 200 g
+    anzeige: 200 g Käse
+  - name: tomate
+    menge: 400 g
+    anzeige: 400 g Tomaten
+  - name: sahne
+    menge: 150 ml
+    anzeige: 150 ml Sahne
+  schritte:
+  - Nudeln vorkochen.
+  - Tomate und Sahne zu Sauce mischen.
+  - Nudeln in eine Form geben, Sauce und Käse darauf verteilen.
+  - Bei 180 Grad 25 Minuten backen.
+  bild_url: https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=900&q=80
+Kartoffel-Ei-Pfanne:
+  portionen: 2 Portionen
+  zeit: 25 Minuten
+  bild_kategorie: kartoffel
+  zutaten:
+  - name: kartoffel
+    menge: 500 g
+    anzeige: 500 g Kartoffeln
+  - name: ei
+    menge: 3 Stück
+    anzeige: 3 Stück Eier
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  - name: kase
+    menge: 60 g
+    anzeige: 60 g Käse
+  schritte:
+  - Kartoffeln würfeln und vorgaren.
+  - Zwiebel anbraten, Kartoffeln zugeben.
+  - Eier darübergeben und stocken lassen.
+  - Mit Käse bestreuen.
+  bild_url: https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=900&q=80
+Tortilla Española:
+  portionen: 4 Portionen
+  zeit: 40 Minuten
+  bild_kategorie: ei
+  zutaten:
+  - name: kartoffel
+    menge: 700 g
+    anzeige: 700 g Kartoffeln
+  - name: ei
+    menge: 6 Stück
+    anzeige: 6 Stück Eier
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  schritte:
+  - Kartoffeln in dünne Scheiben schneiden.
+  - Mit Zwiebel langsam weich braten.
+  - Eier verquirlen und darübergeben.
+  - Tortilla stocken lassen und wenden.
+  bild_url: https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=900&q=80
+Ofenkartoffel mit Käse:
+  portionen: 2 Portionen
+  zeit: 60 Minuten
+  bild_kategorie: kartoffel
+  zutaten:
+  - name: kartoffel
+    menge: 4 große
+    anzeige: 4 große Kartoffeln
+  - name: kase
+    menge: 120 g
+    anzeige: 120 g Käse
+  - name: joghurt
+    menge: 150 g
+    anzeige: 150 g Joghurt
+  schritte:
+  - Kartoffeln einstechen und bei 200 Grad weich backen.
+  - Aufschneiden und mit Käse füllen.
+  - Kurz überbacken und mit Joghurt servieren.
+  bild_url: https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=900&q=80
+Bratkartoffeln mit Ei:
+  portionen: 2 Portionen
+  zeit: 30 Minuten
+  bild_kategorie: kartoffel
+  zutaten:
+  - name: kartoffel
+    menge: 600 g
+    anzeige: 600 g Kartoffeln
+  - name: ei
+    menge: 3 Stück
+    anzeige: 3 Stück Eier
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  schritte:
+  - Kartoffeln in Scheiben schneiden.
+  - In der Pfanne knusprig braten.
+  - Zwiebel dazugeben.
+  - Eier darüber schlagen und stocken lassen.
+  bild_url: https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=900&q=80
+Gebratener Reis mit Ei:
+  portionen: 2 Portionen
+  zeit: 20 Minuten
+  bild_kategorie: reis
+  zutaten:
+  - name: reis
+    menge: 300 g gekocht
+    anzeige: 300 g gekocht Reis
+  - name: ei
+    menge: 2 Stück
+    anzeige: 2 Stück Eier
+  - name: karotte
+    menge: 1 Stück
+    anzeige: 1 Stück Karotten
+  - name: mais
+    menge: 100 g
+    anzeige: 100 g Mais
+  schritte:
+  - Ei in der Pfanne verrühren und herausnehmen.
+  - Karotte und Mais anbraten.
+  - Reis zugeben und kräftig braten.
+  - Ei wieder untermischen.
+  bild_url: https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=900&q=80
+Reisauflauf mit Käse:
+  portionen: 3 Portionen
+  zeit: 40 Minuten
+  bild_kategorie: auflauf
+  zutaten:
+  - name: reis
+    menge: 300 g gekocht
+    anzeige: 300 g gekocht Reis
+  - name: kase
+    menge: 150 g
+    anzeige: 150 g Käse
+  - name: tomate
+    menge: 300 g
+    anzeige: 300 g Tomaten
+  - name: paprika
+    menge: 1 Stück
+    anzeige: 1 Stück Paprika
+  schritte:
+  - Reis mit Tomate und Paprika mischen.
+  - In eine Auflaufform geben.
+  - Käse darüberstreuen.
+  - Bei 180 Grad 25 Minuten backen.
+  bild_url: https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=80
+Tomatenreis mit Ei:
+  portionen: 2 Portionen
+  zeit: 25 Minuten
+  bild_kategorie: reis
+  zutaten:
+  - name: reis
+    menge: 250 g
+    anzeige: 250 g Reis
+  - name: tomate
+    menge: 400 g
+    anzeige: 400 g Tomaten
+  - name: ei
+    menge: 2 Stück
+    anzeige: 2 Stück Eier
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  schritte:
+  - Reis garen.
+  - Zwiebel und Tomate einkochen.
+  - Reis untermischen.
+  - Mit Spiegelei servieren.
+  bild_url: https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=900&q=80
+Thunfisch Pasta:
+  portionen: 3 Portionen
+  zeit: 25 Minuten
+  bild_kategorie: pasta
+  zutaten:
+  - name: nudeln
+    menge: 350 g
+    anzeige: 350 g Nudeln
+  - name: thunfisch
+    menge: 1 Dose
+    anzeige: 1 Dose Thunfisch
+  - name: tomate
+    menge: 400 g
+    anzeige: 400 g Tomaten
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  schritte:
+  - Nudeln kochen.
+  - Zwiebel anbraten, Tomate und Thunfisch zugeben.
+  - Sauce 10 Minuten köcheln lassen.
+  - Mit Nudeln mischen.
+  bild_url: https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?auto=format&fit=crop&w=900&q=80
+Pesto Pasta:
+  portionen: 2 Portionen
+  zeit: 15 Minuten
+  bild_kategorie: pasta
+  zutaten:
+  - name: nudeln
+    menge: 250 g
+    anzeige: 250 g Nudeln
+  - name: pesto
+    menge: 3 EL
+    anzeige: 3 EL pesto
+  - name: kase
+    menge: 40 g
+    anzeige: 40 g Käse
+  schritte:
+  - Nudeln kochen und etwas Kochwasser aufheben.
+  - Pesto mit Kochwasser cremig rühren.
+  - Nudeln mischen und mit Käse servieren.
+  bild_url: https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=900&q=80
+Tomate Mozzarella Toast:
+  portionen: 2 Portionen
+  zeit: 15 Minuten
+  bild_kategorie: toast
+  zutaten:
+  - name: brot
+    menge: 4 Scheiben
+    anzeige: 4 Scheiben Brot
+  - name: tomate
+    menge: 2 Stück
+    anzeige: 2 Stück Tomaten
+  - name: mozzarella
+    menge: 150 g
+    anzeige: 150 g Mozzarella
+  schritte:
+  - Brot rösten.
+  - Tomate und Mozzarella schneiden.
+  - Brot belegen und kurz überbacken.
+  bild_url: https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=80
+Avocado Ei Toast:
+  portionen: 1 Portion
+  zeit: 15 Minuten
+  bild_kategorie: toast
+  zutaten:
+  - name: brot
+    menge: 2 Scheiben
+    anzeige: 2 Scheiben Brot
+  - name: avocado
+    menge: 1 Stück
+    anzeige: 1 Stück Avocado
+  - name: ei
+    menge: 2 Stück
+    anzeige: 2 Stück Eier
+  schritte:
+  - Brot rösten.
+  - Avocado zerdrücken.
+  - Eier braten oder kochen.
+  - Alles auf dem Brot anrichten.
+  bild_url: https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=900&q=80
+Bauernfrühstück:
+  portionen: 2 Portionen
+  zeit: 30 Minuten
+  bild_kategorie: ei
+  zutaten:
+  - name: kartoffel
+    menge: 500 g
+    anzeige: 500 g Kartoffeln
+  - name: ei
+    menge: 4 Stück
+    anzeige: 4 Stück Eier
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  - name: kase
+    menge: 50 g
+    anzeige: 50 g Käse
+  schritte:
+  - Kartoffeln in Scheiben braten.
+  - Zwiebel dazugeben.
+  - Eier verquirlen und darübergeben.
+  - Mit Käse bestreuen und stocken lassen.
+  bild_url: https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=900&q=80
+Gemüseomelett:
+  portionen: 2 Portionen
+  zeit: 18 Minuten
+  bild_kategorie: ei
+  zutaten:
+  - name: ei
+    menge: 4 Stück
+    anzeige: 4 Stück Eier
+  - name: paprika
+    menge: 1 Stück
+    anzeige: 1 Stück Paprika
+  - name: tomate
+    menge: 1 Stück
+    anzeige: 1 Stück Tomaten
+  - name: kase
+    menge: 60 g
+    anzeige: 60 g Käse
+  schritte:
+  - Gemüse klein schneiden und kurz anbraten.
+  - Eier verquirlen und darübergeben.
+  - Käse daraufstreuen.
+  - Omelett langsam stocken lassen.
+  bild_url: https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=80
+Spinat-Käse-Pasta:
+  portionen: 3 Portionen
+  zeit: 25 Minuten
+  bild_kategorie: pasta
+  zutaten:
+  - name: nudeln
+    menge: 350 g
+    anzeige: 350 g Nudeln
+  - name: spinat
+    menge: 200 g
+    anzeige: 200 g Spinat
+  - name: kase
+    menge: 120 g
+    anzeige: 120 g Käse
+  - name: sahne
+    menge: 150 ml
+    anzeige: 150 ml Sahne
+  schritte:
+  - Nudeln kochen.
+  - Spinat in Sahne erhitzen.
+  - Käse einrühren.
+  - Nudeln mit Sauce mischen.
+  bild_url: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80
+Hähnchen-Reis-Pfanne:
+  portionen: 3 Portionen
+  zeit: 35 Minuten
+  bild_kategorie: reis
+  zutaten:
+  - name: huhn
+    menge: 500 g
+    anzeige: 500 g Hähnchen
+  - name: reis
+    menge: 250 g
+    anzeige: 250 g Reis
+  - name: paprika
+    menge: 1 Stück
+    anzeige: 1 Stück Paprika
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  schritte:
+  - Reis kochen.
+  - Huhn in Stücke schneiden und anbraten.
+  - Paprika und Zwiebel dazugeben.
+  - Reis untermischen und würzen.
+  bild_url: https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=900&q=80
+Wrap mit Ei und Käse:
+  portionen: 2 Portionen
+  zeit: 15 Minuten
+  bild_kategorie: wrap
+  zutaten:
+  - name: wrap
+    menge: 2 Stück
+    anzeige: 2 Stück Tortillas
+  - name: ei
+    menge: 3 Stück
+    anzeige: 3 Stück Eier
+  - name: kase
+    menge: 100 g
+    anzeige: 100 g Käse
+  - name: salat
+    menge: 50 g
+    anzeige: 50 g Salat
+  schritte:
+  - Eier rühren und braten.
+  - Wrap mit Käse belegen und erwärmen.
+  - Ei und Salat einfüllen.
+  - Einrollen und servieren.
+  bild_url: https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=900&q=80&sig=25
+Bean Burrito:
+  portionen: 2 Portionen
+  zeit: 20 Minuten
+  bild_kategorie: burrito
+  zutaten:
+  - name: wrap
+    menge: 2 Stück
+    anzeige: 2 Stück Tortillas
+  - name: bohnen
+    menge: 250 g
+    anzeige: 250 g Kidneybohnen
+  - name: reis
+    menge: 200 g gekocht
+    anzeige: 200 g gekocht Reis
+  - name: kase
+    menge: 80 g
+    anzeige: 80 g Käse
+  schritte:
+  - Bohnen erwärmen und würzen.
+  - Wraps mit Reis, Bohnen und Käse füllen.
+  - Einrollen und kurz in der Pfanne rösten.
+  bild_url: https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=900&q=80&sig=26
+Kartoffelsuppe:
+  portionen: 4 Portionen
+  zeit: 40 Minuten
+  bild_kategorie: suppe
+  zutaten:
+  - name: kartoffel
+    menge: 800 g
+    anzeige: 800 g Kartoffeln
+  - name: karotte
+    menge: 2 Stück
+    anzeige: 2 Stück Karotten
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  - name: wasser
+    menge: 1 l
+    anzeige: 1 l Wasser
+  schritte:
+  - Gemüse würfeln.
+  - Alles in Wasser weich kochen.
+  - Suppe pürieren und abschmecken.
+  bild_url: https://images.unsplash.com/photo-1574894709920-11b28e7367e3?auto=format&fit=crop&w=900&q=80&sig=27
+Linsen Dal:
+  portionen: 4 Portionen
+  zeit: 35 Minuten
+  bild_kategorie: curry
+  zutaten:
+  - name: linsen
+    menge: 250 g
+    anzeige: 250 g Linsen
+  - name: curry
+    menge: 2 TL
+    anzeige: 2 TL Currypulver
+  - name: kokosmilch
+    menge: 300 ml
+    anzeige: 300 ml Kokosmilch
+  - name: reis
+    menge: 250 g
+    anzeige: 250 g Reis
+  schritte:
+  - Reis kochen.
+  - Linsen mit Curry und Kokosmilch garen.
+  - Abschmecken und mit Reis servieren.
+  bild_url: https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=900&q=80&sig=28
+Gemüse Curry:
+  portionen: 4 Portionen
+  zeit: 35 Minuten
+  bild_kategorie: curry
+  zutaten:
+  - name: kokosmilch
+    menge: 400 ml
+    anzeige: 400 ml Kokosmilch
+  - name: curry
+    menge: 2 EL
+    anzeige: 2 EL Currypulver
+  - name: brokkoli
+    menge: 250 g
+    anzeige: 250 g Brokkoli
+  - name: paprika
+    menge: 1 Stück
+    anzeige: 1 Stück Paprika
+  - name: reis
+    menge: 250 g
+    anzeige: 250 g Reis
+  schritte:
+  - Reis kochen.
+  - Gemüse anbraten.
+  - Curry und Kokosmilch zugeben.
+  - 15 Minuten köcheln lassen.
+  bild_url: https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=80&sig=29
+Hähnchen Wrap:
+  portionen: 2 Portionen
+  zeit: 25 Minuten
+  bild_kategorie: wrap
+  zutaten:
+  - name: wrap
+    menge: 2 Stück
+    anzeige: 2 Stück Tortillas
+  - name: huhn
+    menge: 300 g
+    anzeige: 300 g Hähnchen
+  - name: salat
+    menge: 80 g
+    anzeige: 80 g Salat
+  - name: tomate
+    menge: 1 Stück
+    anzeige: 1 Stück Tomaten
+  schritte:
+  - Huhn braten und schneiden.
+  - Wraps erwärmen.
+  - Mit Salat, Tomate und Huhn füllen.
+  - Einrollen.
+  bild_url: https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=900&q=80&sig=30
+Salat Bowl mit Ei:
+  portionen: 2 Portionen
+  zeit: 20 Minuten
+  bild_kategorie: salat
+  zutaten:
+  - name: salat
+    menge: 150 g
+    anzeige: 150 g Salat
+  - name: ei
+    menge: 3 Stück
+    anzeige: 3 Stück Eier
+  - name: gurke
+    menge: 1/2 Stück
+    anzeige: 1/2 Stück Gurke
+  - name: tomate
+    menge: 2 Stück
+    anzeige: 2 Stück Tomaten
+  - name: kase
+    menge: 60 g
+    anzeige: 60 g Käse
+  schritte:
+  - Eier kochen.
+  - Gemüse schneiden.
+  - Alles in Schüsseln anrichten.
+  - Mit Käse bestreuen.
+  bild_url: https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=900&q=80&sig=31
+Caprese Pasta:
+  portionen: 2 Portionen
+  zeit: 20 Minuten
+  bild_kategorie: pasta
+  zutaten:
+  - name: nudeln
+    menge: 250 g
+    anzeige: 250 g Nudeln
+  - name: tomate
+    menge: 250 g
+    anzeige: 250 g Tomaten
+  - name: mozzarella
+    menge: 150 g
+    anzeige: 150 g Mozzarella
+  - name: olivenol
+    menge: 2 EL
+    anzeige: 2 EL Olivenöl
+  schritte:
+  - Nudeln kochen.
+  - Tomate und Mozzarella schneiden.
+  - Mit Olivenöl und Nudeln mischen.
+  bild_url: https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=80&sig=32
+Pizza Toast:
+  portionen: 2 Portionen
+  zeit: 20 Minuten
+  bild_kategorie: pizza
+  zutaten:
+  - name: brot
+    menge: 4 Scheiben
+    anzeige: 4 Scheiben Brot
+  - name: tomate
+    menge: 200 g
+    anzeige: 200 g Tomaten
+  - name: kase
+    menge: 120 g
+    anzeige: 120 g Käse
+  - name: paprika
+    menge: 1/2 Stück
+    anzeige: 1/2 Stück Paprika
+  schritte:
+  - Brot auf ein Blech legen.
+  - Mit Tomate bestreichen.
+  - Paprika und Käse daraufgeben.
+  - Bei 200 Grad 10 Minuten backen.
+  bild_url: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80&sig=33
+Eier in Tomatensauce:
+  portionen: 2 Portionen
+  zeit: 25 Minuten
+  bild_kategorie: ei
+  zutaten:
+  - name: ei
+    menge: 4 Stück
+    anzeige: 4 Stück Eier
+  - name: tomate
+    menge: 500 g
+    anzeige: 500 g Tomaten
+  - name: zwiebel
+    menge: 1 Stück
+    anzeige: 1 Stück Zwiebel
+  - name: kase
+    menge: 50 g
+    anzeige: 50 g Käse
+  schritte:
+  - Zwiebel anbraten.
+  - Tomate zugeben und einkochen.
+  - Eier in die Sauce schlagen.
+  - Mit Käse bestreuen und stocken lassen.
+  bild_url: https://images.unsplash.com/photo-1605286978633-2dec93ff88a2?auto=format&fit=crop&w=900&q=80&sig=34
+Schinken-Käse-Omelett:
+  portionen: 1 Portion
+  zeit: 12 Minuten
+  bild_kategorie: ei
+  zutaten:
+  - name: ei
+    menge: 3 Stück
+    anzeige: 3 Stück Eier
+  - name: kase
+    menge: 60 g
+    anzeige: 60 g Käse
+  - name: schinken
+    menge: 50 g
+    anzeige: 50 g schinken
+  schritte:
+  - Eier verquirlen.
+  - In die Pfanne geben.
+  - Schinken und Käse darauflegen.
+  - Zusammenklappen und fertig garen.
+  bild_url: https://images.unsplash.com/photo-1607958996333-41aef7caefaa?auto=format&fit=crop&w=900&q=80&sig=35
+Bananen-Hafer-Pancakes:
+  portionen: 2 Portionen
+  zeit: 20 Minuten
+  bild_kategorie: pfannkuchen
+  zutaten:
+  - name: banane
+    menge: 2 Stück
+    anzeige: 2 Stück Banane
+  - name: ei
+    menge: 2 Stück
+    anzeige: 2 Stück Eier
+  - name: haferflocken
+    menge: 100 g
+    anzeige: 100 g Haferflocken
+  - name: milch
+    menge: 100 ml
+    anzeige: 100 ml Milch
+  schritte:
+  - Banane zerdrücken.
+  - Mit Ei, Haferflocken und Milch mixen.
+  - Kleine Pancakes in der Pfanne backen.
+  bild_url: https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=900&q=80&sig=36
+French Toast mit Käse:
+  portionen: 2 Portionen
+  zeit: 20 Minuten
+  bild_kategorie: toast
+  zutaten:
+  - name: brot
+    menge: 4 Scheiben
+    anzeige: 4 Scheiben Brot
+  - name: ei
+    menge: 2 Stück
+    anzeige: 2 Stück Eier
+  - name: milch
+    menge: 100 ml
+    anzeige: 100 ml Milch
+  - name: kase
+    menge: 80 g
+    anzeige: 80 g Käse
+  schritte:
+  - Ei und Milch verquirlen.
+  - Brot darin wenden.
+  - Mit Käse füllen und in der Pfanne braten.
+  bild_url: https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=900&q=80&sig=37

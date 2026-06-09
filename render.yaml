@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: zutatenchef
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:application
+    plan: free
