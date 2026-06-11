@@ -342,7 +342,7 @@ Tacos mit Hähnchen:
 Kartoffelgratin:
   portionen: 4 Portionen
   zeit: 70 Minuten
-  bild_kategorie: auflauf
+  bild_kategorie: kartoffel
   bild_url: https://images.unsplash.com/photo-1590165482129-1b8b27698780?auto=format&fit=crop&w=900&q=80
   zutaten:
   - name: kartoffel
@@ -584,7 +584,7 @@ Käseomelett:
   - Butter in einer Pfanne schmelzen.
   - Eimasse hineingeben und bei mittlerer Hitze stocken lassen.
   - Käse daraufstreuen, Omelett zusammenklappen und warm servieren.
-  bild_url: https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&w=900&q=80
 Rührei mit Käse:
   portionen: 1 Portion
   zeit: 10 Minuten
@@ -604,11 +604,11 @@ Rührei mit Käse:
   - Butter in der Pfanne erhitzen.
   - Eier langsam rühren, bis sie cremig werden.
   - Käse unterheben und sofort servieren.
-  bild_url: https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=80
 Eier-Käse-Muffins:
   portionen: 6 Stück
   zeit: 25 Minuten
-  bild_kategorie: ei
+  bild_kategorie: muffin
   zutaten:
   - name: ei
     menge: 5 Stück
@@ -627,7 +627,7 @@ Eier-Käse-Muffins:
   - Eier verquirlen und mit Käse, Paprika und Spinat mischen.
   - Masse in Muffinformen füllen.
   - 15 bis 18 Minuten backen.
-  bild_url: https://images.unsplash.com/photo-1481070555726-e2fe8357725c?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1607958996333-41aef7caefaa?auto=format&fit=crop&w=900&q=80
 Frittata mit Käse:
   portionen: 2 Portionen
   zeit: 25 Minuten
@@ -650,7 +650,7 @@ Frittata mit Käse:
   - Zwiebel anbraten, Kartoffeln zugeben.
   - Eier verquirlen, Käse einrühren und in die Pfanne geben.
   - Bei kleiner Hitze stocken lassen.
-  bild_url: https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&w=900&q=80
 Quesadilla mit Käse:
   portionen: 2 Portionen
   zeit: 15 Minuten
@@ -670,7 +670,7 @@ Quesadilla mit Käse:
   - Zweiten Wrap darauflegen.
   - In der Pfanne von beiden Seiten knusprig braten.
   - In Dreiecke schneiden.
-  bild_url: https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=900&q=80
 Grilled Cheese Sandwich:
   portionen: 2 Portionen
   zeit: 15 Minuten
@@ -689,11 +689,11 @@ Grilled Cheese Sandwich:
   - Brot außen mit Butter bestreichen.
   - Käse zwischen die Brotscheiben legen.
   - Bei mittlerer Hitze von beiden Seiten goldbraun braten.
-  bild_url: https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1528736235302-52922df5c122?auto=format&fit=crop&w=900&q=80
 Strammer Max:
   portionen: 1 Portion
   zeit: 15 Minuten
-  bild_kategorie: toast
+  bild_kategorie: ei
   zutaten:
   - name: brot
     menge: 1 Scheibe
@@ -708,7 +708,7 @@ Strammer Max:
   - Brot kurz rösten.
   - Eier als Spiegeleier braten.
   - Käse auf das Brot legen und Eier daraufsetzen.
-  bild_url: https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=80
 Croque Madame einfach:
   portionen: 2 Portionen
   zeit: 25 Minuten
@@ -731,7 +731,7 @@ Croque Madame einfach:
   - Milch mit etwas Mehl oder Stärke zu einer schnellen Sauce kochen.
   - Sandwiches überbacken.
   - Mit Spiegelei servieren.
-  bild_url: https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1528736235302-52922df5c122?auto=format&fit=crop&w=900&q=80
 Käsespätzle einfach:
   portionen: 3 Portionen
   zeit: 30 Minuten
@@ -754,7 +754,7 @@ Käsespätzle einfach:
   - Zwiebeln in Butter langsam braun braten.
   - Nudeln mit Käse mischen, bis alles cremig ist.
   - Mit Röstzwiebeln servieren.
-  bild_url: https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?auto=format&fit=crop&w=900&q=80
 Nudelauflauf mit Käse:
   portionen: 4 Portionen
   zeit: 45 Minuten
@@ -777,7 +777,7 @@ Nudelauflauf mit Käse:
   - Tomate und Sahne zu Sauce mischen.
   - Nudeln in eine Form geben, Sauce und Käse darauf verteilen.
   - Bei 180 Grad 25 Minuten backen.
-  bild_url: https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1574894709920-11b28e7367e3?auto=format&fit=crop&w=900&q=80
 Kartoffel-Ei-Pfanne:
   portionen: 2 Portionen
   zeit: 25 Minuten
@@ -800,7 +800,7 @@ Kartoffel-Ei-Pfanne:
   - Zwiebel anbraten, Kartoffeln zugeben.
   - Eier darübergeben und stocken lassen.
   - Mit Käse bestreuen.
-  bild_url: https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1590165482129-1b8b27698780?auto=format&fit=crop&w=900&q=80
 Tortilla Española:
   portionen: 4 Portionen
   zeit: 40 Minuten
@@ -820,7 +820,7 @@ Tortilla Española:
   - Mit Zwiebel langsam weich braten.
   - Eier verquirlen und darübergeben.
   - Tortilla stocken lassen und wenden.
-  bild_url: https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&w=900&q=80
 Ofenkartoffel mit Käse:
   portionen: 2 Portionen
   zeit: 60 Minuten
@@ -839,7 +839,7 @@ Ofenkartoffel mit Käse:
   - Kartoffeln einstechen und bei 200 Grad weich backen.
   - Aufschneiden und mit Käse füllen.
   - Kurz überbacken und mit Joghurt servieren.
-  bild_url: https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1590165482129-1b8b27698780?auto=format&fit=crop&w=900&q=80
 Bratkartoffeln mit Ei:
   portionen: 2 Portionen
   zeit: 30 Minuten
@@ -859,7 +859,7 @@ Bratkartoffeln mit Ei:
   - In der Pfanne knusprig braten.
   - Zwiebel dazugeben.
   - Eier darüber schlagen und stocken lassen.
-  bild_url: https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=900&q=80
 Gebratener Reis mit Ei:
   portionen: 2 Portionen
   zeit: 20 Minuten
@@ -882,11 +882,11 @@ Gebratener Reis mit Ei:
   - Karotte und Mais anbraten.
   - Reis zugeben und kräftig braten.
   - Ei wieder untermischen.
-  bild_url: https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=900&q=80
 Reisauflauf mit Käse:
   portionen: 3 Portionen
   zeit: 40 Minuten
-  bild_kategorie: auflauf
+  bild_kategorie: reis
   zutaten:
   - name: reis
     menge: 300 g gekocht
@@ -905,7 +905,7 @@ Reisauflauf mit Käse:
   - In eine Auflaufform geben.
   - Käse darüberstreuen.
   - Bei 180 Grad 25 Minuten backen.
-  bild_url: https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=900&q=80
 Tomatenreis mit Ei:
   portionen: 2 Portionen
   zeit: 25 Minuten
@@ -928,7 +928,7 @@ Tomatenreis mit Ei:
   - Zwiebel und Tomate einkochen.
   - Reis untermischen.
   - Mit Spiegelei servieren.
-  bild_url: https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=900&q=80
 Thunfisch Pasta:
   portionen: 3 Portionen
   zeit: 25 Minuten
@@ -951,7 +951,7 @@ Thunfisch Pasta:
   - Zwiebel anbraten, Tomate und Thunfisch zugeben.
   - Sauce 10 Minuten köcheln lassen.
   - Mit Nudeln mischen.
-  bild_url: https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=80
 Pesto Pasta:
   portionen: 2 Portionen
   zeit: 15 Minuten
@@ -970,7 +970,7 @@ Pesto Pasta:
   - Nudeln kochen und etwas Kochwasser aufheben.
   - Pesto mit Kochwasser cremig rühren.
   - Nudeln mischen und mit Käse servieren.
-  bild_url: https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=900&q=80
 Tomate Mozzarella Toast:
   portionen: 2 Portionen
   zeit: 15 Minuten
@@ -989,7 +989,7 @@ Tomate Mozzarella Toast:
   - Brot rösten.
   - Tomate und Mozzarella schneiden.
   - Brot belegen und kurz überbacken.
-  bild_url: https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1528736235302-52922df5c122?auto=format&fit=crop&w=900&q=80
 Avocado Ei Toast:
   portionen: 1 Portion
   zeit: 15 Minuten
@@ -1009,7 +1009,7 @@ Avocado Ei Toast:
   - Avocado zerdrücken.
   - Eier braten oder kochen.
   - Alles auf dem Brot anrichten.
-  bild_url: https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=900&q=80
 Bauernfrühstück:
   portionen: 2 Portionen
   zeit: 30 Minuten
@@ -1032,7 +1032,7 @@ Bauernfrühstück:
   - Zwiebel dazugeben.
   - Eier verquirlen und darübergeben.
   - Mit Käse bestreuen und stocken lassen.
-  bild_url: https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=80
 Gemüseomelett:
   portionen: 2 Portionen
   zeit: 18 Minuten
@@ -1055,7 +1055,7 @@ Gemüseomelett:
   - Eier verquirlen und darübergeben.
   - Käse daraufstreuen.
   - Omelett langsam stocken lassen.
-  bild_url: https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&w=900&q=80
 Spinat-Käse-Pasta:
   portionen: 3 Portionen
   zeit: 25 Minuten
@@ -1078,7 +1078,7 @@ Spinat-Käse-Pasta:
   - Spinat in Sahne erhitzen.
   - Käse einrühren.
   - Nudeln mit Sauce mischen.
-  bild_url: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=900&q=80
 Hähnchen-Reis-Pfanne:
   portionen: 3 Portionen
   zeit: 35 Minuten
@@ -1101,7 +1101,7 @@ Hähnchen-Reis-Pfanne:
   - Huhn in Stücke schneiden und anbraten.
   - Paprika und Zwiebel dazugeben.
   - Reis untermischen und würzen.
-  bild_url: https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=900&q=80
+  bild_url: https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=900&q=80
 Wrap mit Ei und Käse:
   portionen: 2 Portionen
   zeit: 15 Minuten
@@ -1124,7 +1124,7 @@ Wrap mit Ei und Käse:
   - Wrap mit Käse belegen und erwärmen.
   - Ei und Salat einfüllen.
   - Einrollen und servieren.
-  bild_url: https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=900&q=80&sig=25
+  bild_url: https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=900&q=80
 Bean Burrito:
   portionen: 2 Portionen
   zeit: 20 Minuten
@@ -1146,7 +1146,7 @@ Bean Burrito:
   - Bohnen erwärmen und würzen.
   - Wraps mit Reis, Bohnen und Käse füllen.
   - Einrollen und kurz in der Pfanne rösten.
-  bild_url: https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=900&q=80&sig=26
+  bild_url: https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=900&q=80
 Kartoffelsuppe:
   portionen: 4 Portionen
   zeit: 40 Minuten
@@ -1168,7 +1168,7 @@ Kartoffelsuppe:
   - Gemüse würfeln.
   - Alles in Wasser weich kochen.
   - Suppe pürieren und abschmecken.
-  bild_url: https://images.unsplash.com/photo-1574894709920-11b28e7367e3?auto=format&fit=crop&w=900&q=80&sig=27
+  bild_url: https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=900&q=80
 Linsen Dal:
   portionen: 4 Portionen
   zeit: 35 Minuten
@@ -1190,7 +1190,7 @@ Linsen Dal:
   - Reis kochen.
   - Linsen mit Curry und Kokosmilch garen.
   - Abschmecken und mit Reis servieren.
-  bild_url: https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=900&q=80&sig=28
+  bild_url: https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=900&q=80
 Gemüse Curry:
   portionen: 4 Portionen
   zeit: 35 Minuten
@@ -1216,7 +1216,7 @@ Gemüse Curry:
   - Gemüse anbraten.
   - Curry und Kokosmilch zugeben.
   - 15 Minuten köcheln lassen.
-  bild_url: https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=80&sig=29
+  bild_url: https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=900&q=80
 Hähnchen Wrap:
   portionen: 2 Portionen
   zeit: 25 Minuten
@@ -1239,7 +1239,7 @@ Hähnchen Wrap:
   - Wraps erwärmen.
   - Mit Salat, Tomate und Huhn füllen.
   - Einrollen.
-  bild_url: https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=900&q=80&sig=30
+  bild_url: https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=900&q=80
 Salat Bowl mit Ei:
   portionen: 2 Portionen
   zeit: 20 Minuten
@@ -1265,7 +1265,7 @@ Salat Bowl mit Ei:
   - Gemüse schneiden.
   - Alles in Schüsseln anrichten.
   - Mit Käse bestreuen.
-  bild_url: https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=900&q=80&sig=31
+  bild_url: https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=80
 Caprese Pasta:
   portionen: 2 Portionen
   zeit: 20 Minuten
@@ -1287,7 +1287,7 @@ Caprese Pasta:
   - Nudeln kochen.
   - Tomate und Mozzarella schneiden.
   - Mit Olivenöl und Nudeln mischen.
-  bild_url: https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=80&sig=32
+  bild_url: https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=80
 Pizza Toast:
   portionen: 2 Portionen
   zeit: 20 Minuten
@@ -1310,7 +1310,7 @@ Pizza Toast:
   - Mit Tomate bestreichen.
   - Paprika und Käse daraufgeben.
   - Bei 200 Grad 10 Minuten backen.
-  bild_url: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80&sig=33
+  bild_url: https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=900&q=80
 Eier in Tomatensauce:
   portionen: 2 Portionen
   zeit: 25 Minuten
@@ -1333,7 +1333,7 @@ Eier in Tomatensauce:
   - Tomate zugeben und einkochen.
   - Eier in die Sauce schlagen.
   - Mit Käse bestreuen und stocken lassen.
-  bild_url: https://images.unsplash.com/photo-1605286978633-2dec93ff88a2?auto=format&fit=crop&w=900&q=80&sig=34
+  bild_url: https://images.unsplash.com/photo-1590412200988-a436970781fa?auto=format&fit=crop&w=900&q=80
 Schinken-Käse-Omelett:
   portionen: 1 Portion
   zeit: 12 Minuten
@@ -1353,7 +1353,7 @@ Schinken-Käse-Omelett:
   - In die Pfanne geben.
   - Schinken und Käse darauflegen.
   - Zusammenklappen und fertig garen.
-  bild_url: https://images.unsplash.com/photo-1607958996333-41aef7caefaa?auto=format&fit=crop&w=900&q=80&sig=35
+  bild_url: https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&w=900&q=80
 Bananen-Hafer-Pancakes:
   portionen: 2 Portionen
   zeit: 20 Minuten
@@ -1375,7 +1375,7 @@ Bananen-Hafer-Pancakes:
   - Banane zerdrücken.
   - Mit Ei, Haferflocken und Milch mixen.
   - Kleine Pancakes in der Pfanne backen.
-  bild_url: https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=900&q=80&sig=36
+  bild_url: https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=900&q=80
 French Toast mit Käse:
   portionen: 2 Portionen
   zeit: 20 Minuten
@@ -1397,4 +1397,4 @@ French Toast mit Käse:
   - Ei und Milch verquirlen.
   - Brot darin wenden.
   - Mit Käse füllen und in der Pfanne braten.
-  bild_url: https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=900&q=80&sig=37
+  bild_url: https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=900&q=80
