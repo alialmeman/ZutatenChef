@@ -138,6 +138,10 @@ h1 {
     text-align: left;
 }
 
+.about-panel * {
+    text-align: left;
+}
+
 .about-panel h2 {
     margin-top: 22px;
 }
@@ -162,6 +166,7 @@ h1 {
     border: 1px solid var(--line);
     border-radius: 8px;
     background: var(--paper-soft);
+    box-shadow: none;
 }
 
 .about-grid h3 {

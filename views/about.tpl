@@ -22,29 +22,28 @@
                 und die fehlenden Zutaten an.
             </p>
 
-            <h2>Teammitglieder und Aufgaben</h2>
+            <h2>Team und Aufgaben</h2>
             <p>
                 Das Projekt wurde gemeinsam von <strong>Ali Almeman</strong> und
-                <strong>Can Güzeyli</strong> entwickelt. Beide Teammitglieder haben an Backend,
-                Frontend, Rezeptdaten, Testen und Verbesserung der Webapp mitgearbeitet und
-                können die Grundstruktur des Codes erklären.
+                <strong>Can Güzeyli</strong> entwickelt. Wir haben die Arbeit gemeinsam geplant,
+                getestet und die wichtigsten Teile zusammen besprochen.
             </p>
             <div class="about-grid">
                 <article>
                     <h3>Ali Almeman</h3>
-                    <p>Python/Bottle-Routen, Zutatenvergleich, YAML-Datenstruktur, Testing, Deployment mit GitHub und Render.</p>
+                    <p>Python und Bottle-Routen, Zutatenvergleich, YAML-Datenstruktur, Tests und Deployment mit GitHub und Render.</p>
                 </article>
                 <article>
                     <h3>Can Güzeyli</h3>
-                    <p>Python-Logik für Rezeptfunktionen, HTML-Templates, CSS-Design, Rezeptdaten in YAML und Testen der Bedienung.</p>
+                    <p>Python-Logik für Rezeptfunktionen, HTML-Templates, CSS-Design, Rezeptdaten und Testen der Bedienung.</p>
                 </article>
                 <article>
                     <h3>Gemeinsame Arbeit</h3>
-                    <p>Rezeptsuche, Umlaut- und Plural-Erkennung, Favoriten, Einkaufsliste, Fehlerbehebung, Qualitätssicherung und Live-Demo.</p>
+                    <p>Rezeptsuche, Umlaut- und Plural-Erkennung, Favoriten, Einkaufsliste, Fehlerbehebung und Live-Demo.</p>
                 </article>
                 <article>
                     <h3>Projektziel</h3>
-                    <p>Eine verständliche, stabile und benutzerfreundliche Webapp erstellen, die auf anderen Computern reproduzierbar gestartet werden kann.</p>
+                    <p>Eine kleine, stabile und verständliche Webapp bauen, die auch auf anderen Computern gestartet werden kann.</p>
                 </article>
             </div>
 
