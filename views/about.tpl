@@ -22,23 +22,29 @@
                 und die fehlenden Zutaten an.
             </p>
 
-            <h2>Team und Aufgaben</h2>
+            <h2>Teammitglieder und Aufgaben</h2>
+            <p>
+                Das Projekt wurde gemeinsam von <strong>Ali Almeman</strong> und
+                <strong>Can Güzeyli</strong> entwickelt. Beide Teammitglieder haben an Backend,
+                Frontend, Rezeptdaten, Testen und Verbesserung der Webapp mitgearbeitet und
+                können die Grundstruktur des Codes erklären.
+            </p>
             <div class="about-grid">
                 <article>
-                    <h3>Backend</h3>
-                    <p>Python, Bottle-Routen, Rezeptsuche, Filter, Zutatenvergleich und Portionenberechnung.</p>
+                    <h3>Ali Almeman</h3>
+                    <p>Python/Bottle-Routen, Zutatenvergleich, YAML-Datenstruktur, Testing, Deployment mit GitHub und Render.</p>
                 </article>
                 <article>
-                    <h3>Daten</h3>
-                    <p>Rezepte werden in der YAML-Datei <strong>rezepte.yaml</strong> gespeichert und in Python geladen.</p>
+                    <h3>Can Güzeyli</h3>
+                    <p>Python-Logik für Rezeptfunktionen, HTML-Templates, CSS-Design, Rezeptdaten in YAML und Testen der Bedienung.</p>
                 </article>
                 <article>
-                    <h3>Frontend</h3>
-                    <p>HTML-Templates, CSS-Design, Favoriten und Einkaufsliste im Browser.</p>
+                    <h3>Gemeinsame Arbeit</h3>
+                    <p>Rezeptsuche, Umlaut- und Plural-Erkennung, Favoriten, Einkaufsliste, Fehlerbehebung, Qualitätssicherung und Live-Demo.</p>
                 </article>
                 <article>
-                    <h3>Deployment</h3>
-                    <p>Der Code liegt auf GitHub und die Webapp wird über Render online bereitgestellt.</p>
+                    <h3>Projektziel</h3>
+                    <p>Eine verständliche, stabile und benutzerfreundliche Webapp erstellen, die auf anderen Computern reproduzierbar gestartet werden kann.</p>
                 </article>
             </div>
 
