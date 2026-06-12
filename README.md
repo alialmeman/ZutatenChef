@@ -65,11 +65,12 @@ http://localhost:8080
 
 ## Verantwortungsbereiche
 
-Das Projekt wurde gemeinsam von Ali Almeman und Can Güzeyli entwickelt. Wir haben die Arbeit gemeinsam geplant, getestet und die wichtigsten Teile zusammen besprochen.
+Teammitglieder: Ali Almeman und Can Güzeyli. Beide haben an Planung, Code, Testen und Verbesserung der Webapp mitgearbeitet.
 
-- Ali Almeman: Python und Bottle-Routen, Zutatenvergleich, YAML-Datenstruktur, Tests und Deployment mit GitHub und Render
-- Can Güzeyli: Python-Logik für Rezeptfunktionen, HTML-Templates, CSS-Design, Rezeptdaten und Testen der Bedienung
-- Gemeinsam: Rezeptsuche, Umlaut- und Plural-Erkennung, Favoriten, Einkaufsliste, Fehlerbehebung und Live-Demo
+- Backend: Python, Bottle-Routen, Rezeptsuche, Filter, Zutatenvergleich und Portionenberechnung
+- Daten: Rezepte werden in `rezepte.yaml` gespeichert und in Python geladen
+- Frontend: HTML-Templates, CSS-Design, Favoriten und Einkaufsliste im Browser
+- Deployment: GitHub und Render
 
 ## Hinweise
 

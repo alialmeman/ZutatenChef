@@ -138,7 +138,8 @@ h1 {
     text-align: left;
 }
 
-.about-panel * {
+.search-panel.about-panel,
+.search-panel.about-panel * {
     text-align: left;
 }
 
@@ -159,6 +160,7 @@ h1 {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 12px;
+    margin-top: 14px;
 }
 
 .about-grid article {
