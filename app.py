@@ -465,6 +465,11 @@ def index():
     return template("index")
 
 
+@route("/about")
+def about():
+    return template("about")
+
+
 @route("/ergebnis", method=["GET", "POST"])
 def ergebnis():
     eingabe = zeige_eingabe(request.forms.get("zutaten", ""))

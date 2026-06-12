@@ -12,6 +12,7 @@
             <div class="badge">Rezept-Finder</div>
             <h1>👨‍🍳 ZutatenChef</h1>
             <p>Gib deine Zutaten ein und finde passende Rezepte.</p>
+            <a class="about-link" href="/about">Über das Projekt</a>
         </section>
 
         <section class="search-panel">
